@@ -1,4 +1,4 @@
-# 
+# Personalizado Letta (MemGPT) ferramentas. Com web scraping e raciocínio automatizado — otimizado para máximo desempenho e eficiência.
 
 
 
